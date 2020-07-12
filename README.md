@@ -1,13 +1,16 @@
-"# todo-app" 
+# Todo-app
+
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="Todo App" width="120">
+
+<img src="todo-react.gif" alt="TodoApp" >
+
 <br>
 <br>
 GitHub @ViannaAandreBR
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">A little description about our project</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -15,11 +18,7 @@ GitHub @ViannaAandreBR
   </a>
 </p>
 
-[//]: # (Add your gifs/images here:)
-<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>
+
 
 <hr />
 
