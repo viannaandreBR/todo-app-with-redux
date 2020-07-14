@@ -1,9 +1,9 @@
-# Todo-app
+# todo-app-with-redux
 
 <h1 align="center">
 <br>
 
-<img src="todo-react.gif" alt="TodoApp" >
+<img src="todo-react.gif" alt="TodoApp With Redux" >
 
 <br>
 <br>
