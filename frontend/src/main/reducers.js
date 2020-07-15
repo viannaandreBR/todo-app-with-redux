@@ -17,7 +17,7 @@ const rootReducer = combineReducers({
         done: false
       }
     ]
-  })
+  }) 
 })
 
 export default rootReducer
