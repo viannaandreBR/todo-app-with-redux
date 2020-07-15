@@ -1,6 +1,6 @@
-import {combineReducer} from  'redux'
+import { combineReducers } from  'redux'
 
-const rootReducer = combineReducer({
+const rootReducer = combineReducers({
   todo: () => ({
       description: 'Ler Livro',
       list: [{
