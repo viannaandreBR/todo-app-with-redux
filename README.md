@@ -3,6 +3,16 @@
 <h1 align="center">
 <br>
 
+<img src="todo-react-com-redux.gif" alt="TodoApp With Redux" >
+
+<br>
+<br>
+
+# todo-app-without-redux
+
+<h1 align="center">
+<br>
+
 <img src="todo-react.gif" alt="TodoApp With Redux" >
 
 <br>
